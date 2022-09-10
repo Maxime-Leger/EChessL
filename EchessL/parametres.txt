@@ -1,0 +1,1 @@
+taille de la fenetre =700
