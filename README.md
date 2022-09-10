@@ -5,9 +5,11 @@
 
 
 # 👋 Introducing `EChessL`
+<!---
 <p align="center">
     <img src="intro/EChessL.png" alt="view" />
 </p>
+--->
 
 `EChessL` is a collaborative project on creating a chess game to play with your friend, or against an AI in case your don't have one at hand !
 
@@ -15,10 +17,9 @@
 # 🚀 Demo
 Here is a quick demo of the app. We hope you enjoy it.
 
-<p align="center">
-    <img src="intro/EchessL_PvAI.gif" alt="Player vs AI gif" />
-    <img src="intro/EchessL_PvP.gif" alt="Player vs Player gif" />
-</p>
+|Player vs AI|Player vs Player|
+|:-:|:-:|
+|![Player vs AI](intro/EchessL_PvAI.gif?w=400)|![Player vs Player](intro/EchessL_PvP.gif?w=400)|
 
 
 # 💻 Use `EChessL`
@@ -28,7 +29,13 @@ Please access `EChessL` as follow :
 
 
 # 🔥 Features
-`EChessL` comes with a bundle of features already. You can do the followings with it,
+`EChessL` comes with a bundle of features. You can do the followings with it :
+- Play against anoter player, an AI based on alpha-beta pruning (where you can select the depth of the search) or on neural network
+- Set a timer to challenge yourself
+- Select different modes :
+    * Classic Chess
+    * Horde : one player plays only with pawns
+    * Random : every pieces is randomized (each player have the same pieces)
 
 
 
