@@ -11,7 +11,7 @@
 </p>
 --->
 
-`EChessL` is a collaborative project on creating a chess game to play with your friend, or against an AI in case your don't have one at hand !
+`EChessL` is a collaborative project about building up a chess game to play with your friend, or against an AI in case your don't have one at hand !
 
 
 # 🚀 Demo
