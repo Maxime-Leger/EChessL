@@ -24,8 +24,8 @@ Here is a quick demo of the app. We hope you enjoy it.
 
 # 💻 Use `EChessL`
 Please access `EChessL` as follow :
-- download Processing
-- clone the repository and launch the app with `EchessL.pde`
+- Download <a href="https://processing.org/">Processing <img src="intro/Processing_2021_logo.svg" alt="processing" width="20" /></a>
+- Clone the repository and launch the app with the file `EchessL/EchessL.pde`
 
 
 # 🔥 Features
