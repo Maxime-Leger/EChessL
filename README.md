@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="EchessL/Images/logoEChessL.png" alt="logo" width="150" />
+      <img src="EchessL/Images/logoEChessL.png" alt="logo" width="100" />
 </p>
 
 
@@ -15,7 +15,7 @@
 
 
 # 🚀 Demo
-Here is a quick demo of the app. We hope you enjoy it.
+Here is a quick demo of the app. Hope you enjoy it !
 
 |Player vs AI|Player vs Player|
 |:-:|:-:|
